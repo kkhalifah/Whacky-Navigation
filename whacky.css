@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+ul{
+  /*height: 100px;
+  width: 900px;*/
+  color: teal;
+  /*background-color: yellow;*/
+}
+li {
+    display: inline;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+h1{
+  font-family: sans-serif;
+  /*font-size: 20px;*/
+  margin-left: 20px;
+}
+
+#cats {
+    width: 500px;
+}
+#wrestler{
+    font-family: sans-serif;
+    font-weight: bold;
+    display: block;
+}
